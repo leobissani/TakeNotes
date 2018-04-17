@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TakeNotes</string>
+    <string name="noteSaved">Nota salva</string>
+    <string name="noteNotSaved">Erro. A nota não pode ser salva</string>
+    <string name="nameNote">Insira um nome para a nota</string>
+    <string name="noteContent">Preencha o conteúdo da nota</string>
+    <string name="emptyNoteList">Lista de notas vazia</string>
+    <string name="deletedNote">foi deletado com sucesso</string>
+    <string name="discardChangesMessage">Sair sem salvar as alterações a nota?</string>
+    <string name="deleteNoteMessage">Você tem certeza que deseja excluir essa nota?</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

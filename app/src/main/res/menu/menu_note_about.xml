@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- ABOUT APP -->
+    <item
+        android:enabled="true"
+        android:title="update"
+        android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        />
+</menu>
